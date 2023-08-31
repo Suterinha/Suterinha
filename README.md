@@ -14,13 +14,10 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me siga a gente nas redes abaixo!
+  ### Me siga nas outras redes! 
  
 <div> 
   <a href="https://instagram.com/suterinhaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "costellawow@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/suterinha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Suterinha/Suterinha/blob/output/github-contribution-grid-snake.svg)
-
 </div>
