@@ -1,4 +1,6 @@
-## Oi! Bem vindo ao meu perfil 😁
+## <h1>Olá! Bem vindo ao meu perfil 😁</h1>
+ <h2>Por que Suterinha? </h2>
+<p>Gosto muito da cultura japonesa, e meu nome (Stella) em japonês fica Sutera, pois eles não conseguem pronunciar a letra S muda, e o L também não. Disso veio meu apelido, Sutera no diminutivo! Particularmente gosto bastante do meu apelido :)</p>
 
  <div>
    <a href="https://github.com/Suterinha">
